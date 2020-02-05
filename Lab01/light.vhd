@@ -10,5 +10,6 @@ END light;
 
 ARCHITECTURE logicFunction OF light IS
 BEGIN
-	f <= (NOT x1 AND X2) OR (x1 AND NOT X2);
-END logicFunction;
+	f <= x1 XOR X2;
+	-- f <= (x1 AND NOT x2) OR (NOT x1 AND x2);
+END LogicFunction;

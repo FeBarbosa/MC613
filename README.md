@@ -6,3 +6,11 @@ This repository has all the laboratories of MC613 course.
   - Files:
     - light.vhd
     - simulation.png
+
+### Laboratory 02: SOP function and binary to hexadecimal with 7-segment display
+  - Files:
+    - minimizado.vhd
+    - original.vhd
+    - logicfunction.png
+    - bin2dec.vhd
+    - bin2hex.vhd

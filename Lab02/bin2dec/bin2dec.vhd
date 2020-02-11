@@ -30,7 +30,7 @@ BEGIN
 			 "0100100" WHEN bin = "0010" ELSE
 			 "0110000" WHEN bin = "0011" ELSE
 			 "0011001" WHEN bin = "0100" ELSE
-			 "0110010" WHEN bin = "0101" ELSE
+			 "0010010" WHEN bin = "0101" ELSE
 			 "0000010" WHEN bin = "0110" ELSE
 			 "1111000" WHEN bin = "0111" ELSE
 			 "0000000" WHEN bin = "1000" ELSE

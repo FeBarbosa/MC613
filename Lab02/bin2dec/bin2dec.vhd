@@ -25,17 +25,17 @@ BEGIN
 --				 "0000111" WHEN OTHERS;
 
 			 
-	dec <= "1000000" WHEN bin = "0000" ELSE
-			 "1111001" WHEN bin = "0001" ELSE
-			 "0100100" WHEN bin = "0010" ELSE
-			 "0110000" WHEN bin = "0011" ELSE
-			 "0011001" WHEN bin = "0100" ELSE
-			 "0010010" WHEN bin = "0101" ELSE
-			 "0000010" WHEN bin = "0110" ELSE
-			 "1111000" WHEN bin = "0111" ELSE
-			 "0000000" WHEN bin = "1000" ELSE
-			 "0011000" WHEN bin = "1001" ELSE
-			 "0000110";
+	dec <= "1000000" WHEN bin = "0000" ELSE           -- 0
+			 "1111001" WHEN bin = "0001" ELSE -- 1 
+			 "0100100" WHEN bin = "0010" ELSE -- 2 
+			 "0110000" WHEN bin = "0011" ELSE -- 3
+			 "0011001" WHEN bin = "0100" ELSE -- 4
+			 "0010010" WHEN bin = "0101" ELSE -- 5
+			 "0000010" WHEN bin = "0110" ELSE -- 6
+			 "1111000" WHEN bin = "0111" ELSE -- 7 
+			 "0000000" WHEN bin = "1000" ELSE -- 8 
+			 "0011000" WHEN bin = "1001" ELSE -- 9
+			 "0000110";                       -- E (erro)
 	 
 END arch;
 

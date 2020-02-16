@@ -14,3 +14,17 @@ This repository has all the laboratories of MC613 course.
     - logicfunction.png
     - bin2dec.vhd
     - bin2hex.vhd
+
+### Laboratory 03: Crossbar switch and Multiplexar using decoder
+  - Files:
+    - xbar_v1.vhd
+    - xbar_v1.png
+    - xbar_v2.vhd
+    - xbar_v2.png
+    - xbar_v3.vhd
+    - xbar_v3.png
+    - xbar_gen.vhd
+    - xbar_stage_5.vhd
+    - xbar_stage_5.png
+    
+    

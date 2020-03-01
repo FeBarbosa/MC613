@@ -26,5 +26,7 @@ This repository has all the laboratories of MC613 course.
     - xbar_gen.vhd
     - xbar_stage_5.vhd
     - xbar_stage_5.png
+    - xbar_stage_8.vhd
+    - xbar_stage_8.png
     
     

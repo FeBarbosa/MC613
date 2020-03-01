@@ -1,6 +1,6 @@
 ## MC613 - Laboratório de Circuitos Digitais (UNICAMP-IC course)
 
-This repository has all the laboratories of MC613 course. 
+This repository has all the laboratories solutions of MC613 course (first semester of 2020).
 
 ### Laboratory 01: A simple hotel light switch controller
   - Files:

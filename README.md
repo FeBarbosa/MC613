@@ -28,5 +28,10 @@ This repository has all the laboratories solutions of MC613 course (first semest
     - xbar_stage_5.png
     - xbar_stage_8.vhd
     - xbar_stage_8.png
-    
+    - dec2_to_4.vhd
+    - dec2_to_4.png
+    - extra_logic.vhd
+    - extra_logic.png
+    - mux4_to_1.vhd
+    - mux4_to_1.png
     

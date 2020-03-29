@@ -34,4 +34,6 @@ This repository has all the laboratories solutions of MC613 course (first semest
     - extra_logic.png
     - mux4_to_1.vhd
     - mux4_to_1.png
+    - mux16_to_1.vhd
+    - mux16_to_1.png
     

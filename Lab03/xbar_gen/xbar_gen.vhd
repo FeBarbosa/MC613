@@ -6,7 +6,7 @@ ENTITY xbar_gen IS
 	PORT(
 		vcc, gnd : IN STD_LOGIC;
 		s : IN STD_LOGIC_VECTOR(N-1 DOWNTO 0);
-		y1, y2 : OUT STD_LOGIC
+		y1 : OUT STD_LOGIC
 	);
 END xbar_gen;
 
@@ -31,6 +31,4 @@ BEGIN
 	END GENERATE;
 	
 	y1 <= x1(N);
-	y2 <= x2(N);
-	
 END arch;
